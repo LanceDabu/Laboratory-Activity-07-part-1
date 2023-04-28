@@ -1,0 +1,16 @@
+{
+    "name": "app/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lance A. Dabu",
+            "email": "dabu.lance@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
